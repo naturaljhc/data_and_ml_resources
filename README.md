@@ -51,7 +51,7 @@ On thee left, the `[]` refers to the order in which each cell was run
 - Probability Distributions
 - Bayes' Theorem
 - Expectation and Variance
-### 4. Nearest Neighbors - Simple Supervised Learning
+### 4. Nearest Neighbors - Simple Supervised Learning (Chapter 2.5)
 ### 5. Linear Regression & Regularization - The Regression Problem (Chapter 3)
 - Linear Regression
 - Loss Functions
@@ -70,9 +70,6 @@ On thee left, the `[]` refers to the order in which each cell was run
 - Evaluation Metrics
 - ROC Curves and AUC
 ### Support Vector Machines - SVMs (Optional)
-### Principal Component Analysis - PCA (Chapter 12)
-- Dimensionality Reduction
-- Concept and Interpretation
 ### Clustering
 - k-Means Clustering
 - Hierarchical Clustering
@@ -82,6 +79,9 @@ On thee left, the `[]` refers to the order in which each cell was run
 - Decision Trees (Regression and Classification)
 - Random Forests (Regression and Classification)
 - Feature Importance
+### Principal Component Analysis - PCA (Chapter 12)
+- Dimensionality Reduction
+- Concept and Interpretation
 ### Gradient Boosting (Chapter 14)
 - Gradient Boosting Machines (GBMs)
 - XGBoost (Regression and Classification)
@@ -90,6 +90,10 @@ On thee left, the `[]` refers to the order in which each cell was run
 - Neural Network concept
 - Backpropagation and Training
 - TensorFlow
+### Topic Modeling
+- Latent Dirichlet Allocation (LDA)
+- Latent Semantic Analysis (LSA)
+- Non-negative Matrix Factorization
 
 ## Other Useful Topics:
 ### Data Collection
