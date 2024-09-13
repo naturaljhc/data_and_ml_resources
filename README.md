@@ -1,5 +1,5 @@
 # Data Analytics/Data Science/Machine Learning Resources
-This repository contains resources and step-by-step guide on learning data analytics, data science, and machine learning. `freeCodeCamp` has a lot of great videos, but this repo will give you an idea of which topics you should learn and in which order.
+This repository contains resources and step-by-step guide on learning data analytics, data science, and machine learning. There are a lot of resources out there, but this repo will give you an idea of which topics you should learn and in which order.
 
 ## Getting Started
 ### Recommended Textbook
@@ -41,7 +41,7 @@ On thee left, the `[]` refers to the order in which each cell was run
 - Data Visualization with `matplotlib`
     - [Video](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 ### 2. Basic Terminology (Chapter 1)
-- Definitions and Key Terms:
+- [Definitions and Key Terms](https://developers.google.com/machine-learning/glossary) - Google has a comprehensive list of all terms used in ML. Most important terms to start with:
     - Supervised/Unsupervised Learning
     - Features/Labels
     - Training/Test sets
@@ -49,21 +49,35 @@ On thee left, the `[]` refers to the order in which each cell was run
 ### 3. Basic Probability Theory (Chapter 2)
 - **Note**: These topics are crucial for understanding how machine learning models work - after all, machine learning is fundamentally based on probabilistic reasoning. While you may be able to build and use models without mastering all of these concepts, understanding them will allow you to grasp the "why" behind model behavior, improve your analytical skills, and fine-tune model performance more effectively.
 - Probability Distributions
+    - [Video](https://www.youtube.com/watch?v=oI3hZJqXJuc)
 - Bayes' Theorem
+    - [Video](https://www.youtube.com/watch?v=9wCnvr7Xw4E)
 - Expectation and Variance
+    - [Video](https://www.youtube.com/watch?v=OvTEhNL96v0)
 ### 4. Nearest Neighbors - Simple Supervised Learning (Chapter 2.5)
+- [Algorithm & Implementation](https://www.youtube.com/watch?v=4HKqjENq9OU)
+- [Quick Rundown](https://www.youtube.com/watch?v=HVXime0nQeI)
 ### 5. Linear Regression & Regularization - The Regression Problem (Chapter 3)
 - Linear Regression
-- Loss Functions
-- Regularization
-- L1 (Lasso) and L2 (Ridge) Regularization
+    - [Simplified Algorithm Explanation](https://www.youtube.com/watch?v=YwZYSTQs-Hk)
+    - [Implementation](https://github.com/naturaljhc/data_and_ml_resources/blob/main/Regression/Linear%20Regression.ipynb)
+    - [Quick Rundown](https://www.youtube.com/watch?v=owI7zxCqNY0)
+- [Loss Functions](https://www.ibm.com/think/topics/loss-function)
+- L1 (Lasso) Regularization
+    - [Video](https://www.youtube.com/watch?v=NGf0voTMlcs)
+    - [Implementation](https://github.com/naturaljhc/data_and_ml_resources/blob/main/Regression/Lasso%20Regression.ipynb)
+- L2 (Ridge) Regression
+    - [Video](https://www.youtube.com/watch?v=Q81RR3yKn30)
+    - [Implementation](https://github.com/naturaljhc/data_and_ml_resources/blob/main/Regression/Ridge%20Regression.ipynb)
 - Elastic Net
+    - [Video](https://www.youtube.com/watch?v=1dKRdX9bfIo)
+    - [Implementation](https://github.com/naturaljhc/data_and_ml_resources/blob/main/Regression/Elastic%20Net.ipynb)
 - Bias-Variance Tradeoff
+    - [Video](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 - Feature Selection
 ### Gradient Descent
-- Stochastic Gradient Descent
-- Mini-batch Gradient Descent
-- Hyperparameter Tuning
+- Stochastic \& Mini-batch Gradient Descent
+    - [Video](https://www.youtube.com/watch?v=vMh0zPT0tLI)
 ### Logistic Regression - The Classification Problem (Chapter 4)
 - Logistic Regression & Binary Classification
 - Multiclass Classification
